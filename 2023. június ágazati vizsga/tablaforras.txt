@@ -1,0 +1,21 @@
+<table>
+  <tr>
+    <td>Német juhászkutya adatai</td>
+  </tr>
+  <tr>
+    <td>Származási hely</td>
+    <td>Németország</td>
+  </tr> 
+  <tr>
+    <td>Magasság</td>
+    <td>kan: 60-66 cm szuka: 55-61 cm</td>
+  </tr>
+  <tr>
+    <td>Súly</td>
+    <td>kan: 30-40 kg szuka: 22-32 kg</td>
+  </tr>
+  <tr>
+    <td>Szőrzet</td>
+    <td>Kettős szőrzet, közepesen hosszú, egyenes, sűrű, kemény</td>
+  </tr>
+ </table> 
